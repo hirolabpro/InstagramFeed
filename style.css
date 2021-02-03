@@ -1,0 +1,66 @@
+body {
+    background: #E0E0E0;
+    margin: 0;
+}
+div {
+
+    box-sizing: content-box;
+}
+
+header {
+
+    background: white;
+    text-align: center;
+    padding: 30px;
+}
+
+header h1 {
+
+    margin: 0;
+    
+}
+
+div.master-container {
+    margin: auto;
+    width: 700px;
+}
+
+div.master-post {
+    background: white;
+    margin-top: 80px;
+}
+
+div.master-post img {
+    width: 100%;
+}
+
+div.master-post .fit-header div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+
+div.master-post .fit-header div:last-child{
+    display: inline-block;
+    width: 17%;
+    padding: 10px;
+    text-align: right;
+    color: gray;
+    
+}
+
+div.master-post h2 {
+    padding: 10px;
+    margin: 0;  
+}
+
+p {
+    padding: 10px;
+}
+
+h1 img {
+    max-width: 55px;
+    float: right;
+
+}
+
+
